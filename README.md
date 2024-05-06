@@ -6,15 +6,15 @@
 This repository contains the code for an E-commerce website. It's built using Angular for the front-end, Spring Boot for the back-end, and MySQL for the database. This project was created as part of the Full Stack Java and Spring Boot course to learn more about Full Stack Development.
 
 ## Features 🌟
-- 📦 **Product Listing**: View available products by category and see product details.
-- 🔍 **Searching**: Search for products by keyword.
-- 📄 **Pagination**: Navigate through product listings with pagination.
-- 🛒 **Shopping Cart**: Add, update, and remove products from your shopping cart.
-- 📝 **Checkout Form**: Fill out required fields to checkout and save orders.
-- 🔐 **Login/Logout**: Secure authentication and authorization using Okta.
-- 🔒 **Members-Only Pages**: Access routes only available to authenticated users.
-- 🔄 **Handling Browser Refresh**: Store shopping cart data locally to prevent loss on refresh.
-- 📚 **Order History**: View order history with secure API access.
+-  **Product Listing**: View available products by category and see product details.
+-  **Searching**: Search for products by keyword.
+-  **Pagination**: Navigate through product listings with pagination.
+-  **Shopping Cart**: Add, update, and remove products from your shopping cart.
+-  **Checkout Form**: Fill out required fields to checkout and save orders.
+-  **Login/Logout**: Secure authentication and authorization using Okta.
+-  **Members-Only Pages**: Access routes only available to authenticated users.
+-  **Handling Browser Refresh**: Store shopping cart data locally to prevent loss on refresh.
+-  **Order History**: View order history with secure API access.
 
 ## Technologies Used 💻
 - **Angular 16.2.1**: Front-end framework for single-page web applications.
